@@ -10,7 +10,6 @@
 
 https://horimaru0611.sakura.ne.jp/kadai10/login.php
 
-
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
 管理者権限は
