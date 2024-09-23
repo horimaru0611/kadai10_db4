@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://horimaru0611.sakura.ne.jp/kadai9/index.php
+https://horimaru0611.sakura.ne.jp/kadai10/login.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
